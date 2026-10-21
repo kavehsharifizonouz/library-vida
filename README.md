@@ -1,2 +1,2 @@
-# library-veda
+# library-vida
 ساخت کتابخانه ویدا در بستر اینترنت
